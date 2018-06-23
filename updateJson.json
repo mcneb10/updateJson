@@ -7,7 +7,7 @@
   },
   ...
   "promos": {
-    "1.12.1-latest": "1.0",
+    "1.12.1-latest": "1.0.1",
     // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
     "1.12.1-recommended": "1.0",
     // Declare the latest "stable" version of your mod for the given Minecraft version
